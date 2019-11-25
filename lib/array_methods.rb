@@ -1,5 +1,5 @@
 require 'pry'
-
+#in thsi ex using_include is my method. the arguments are (array , element)
 def using_include(array, element)
 #binding.pry
   #iterators 

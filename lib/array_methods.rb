@@ -1,7 +1,7 @@
 require 'pry'
 
-def using_include(array, element)
-  binding.pry
+def using_include(array)
+#binding.pry
   #iterators 
   #array => type of data structure
   #string => data structure
